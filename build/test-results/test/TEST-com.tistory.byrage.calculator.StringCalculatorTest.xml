@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tistory.byrage.calculator.StringCalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-07-10T08:31:04" hostname="choeyeong-ungs-MacBook-Pro.local" time="0.079">
+  <properties/>
+  <testcase name="계산()" classname="com.tistory.byrage.calculator.StringCalculatorTest" time="0.075"/>
+  <testcase name="입력 값이 null 또는 빈 문자열()" classname="com.tistory.byrage.calculator.StringCalculatorTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
