@@ -1,4 +1,4 @@
-package com.tistory.byrage.calculator
+package com.tistory.byrage.example.cleancode.calculator
 
 object Calculator {
     fun calculate(value: String?): Int {

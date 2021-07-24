@@ -1,6 +1,6 @@
-package com.tistory.byrage.calculator
+package com.tistory.byrage.example.cleancode.calculator
 
-import com.tistory.byrage.calculator.Calculator.calculate
+import com.tistory.byrage.example.cleancode.calculator.Calculator.calculate
 import org.assertj.core.api.Assertions.assertThat
 import org.assertj.core.api.Assertions.assertThatThrownBy
 import org.junit.jupiter.api.Test
