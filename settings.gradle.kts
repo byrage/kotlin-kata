@@ -1,4 +1,4 @@
-rootProject.name = "kotlin-practice"
+rootProject.name = "kotlin-kata"
 
 pluginManagement {
     val kotlinVersion: String by settings
