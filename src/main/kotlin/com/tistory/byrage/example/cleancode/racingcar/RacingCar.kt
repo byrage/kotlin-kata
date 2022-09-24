@@ -2,7 +2,7 @@ package com.tistory.byrage.example.cleancode.racingcar
 
 private fun readInt() = readLine()?.toInt() ?: throw IllegalArgumentException("Input must be integer type")
 
-fun main(args: Array<String>) {
+fun main() {
     println("자동차 대수는 몇 대 인가요?")
     val numberOfCars = readInt()
     println("시도할 회수는 몇 회 인가요?")
